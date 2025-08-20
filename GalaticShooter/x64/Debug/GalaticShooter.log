@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,62): warning C4244:         with
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,62): warning C4244:         [
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,62): warning C4244:             T=unsigned int
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,62): warning C4244:         ]
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,32): warning C4244:         with
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,32): warning C4244:         [
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,32): warning C4244:             T=unsigned int
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(86,32): warning C4244:         ]
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,59): warning C4244:         with
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,59): warning C4244:         [
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,59): warning C4244:             T=unsigned int
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,59): warning C4244:         ]
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,32): warning C4244:         with
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,32): warning C4244:         [
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,32): warning C4244:             T=unsigned int
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(92,32): warning C4244:         ]
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(209,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\C++ Projects\GalaticShooter\GalaticShooter\main.cpp(260,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GalaticShooter.vcxproj -> C:\C++ Projects\GalaticShooter\x64\Debug\GalaticShooter.exe

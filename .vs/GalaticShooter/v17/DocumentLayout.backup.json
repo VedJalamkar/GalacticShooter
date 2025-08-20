@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B Projects\\GalaticShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9361FC-09EA-4AB4-842A-92889FA51AA9}|GalaticShooter\\GalaticShooter.vcxproj|C:\\C\u002B\u002B Projects\\GalaticShooter\\GalaticShooter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC9361FC-09EA-4AB4-842A-92889FA51AA9}|GalaticShooter\\GalaticShooter.vcxproj|solutionrelative:GalaticShooter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B Projects\\GalaticShooter\\GalaticShooter\\main.cpp",
+              "RelativeDocumentMoniker": "GalaticShooter\\main.cpp",
+              "ToolTip": "C:\\C\u002B\u002B Projects\\GalaticShooter\\GalaticShooter\\main.cpp",
+              "RelativeToolTip": "GalaticShooter\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T08:21:53.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
